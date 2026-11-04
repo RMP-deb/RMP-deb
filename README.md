@@ -1,4 +1,6 @@
-## Hi there 👋
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,bash,r&perline=8)](https://skillicons.dev)
 
 <!--
 **RMP-deb/RMP-deb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
