@@ -13,3 +13,6 @@
     <img src="https://skillicons.dev/icons?i=rust,cpp" />
   </a>
 </p>
+<p align="center">
+Interested in genomics, bioinformatics and herpetology.
+</p>
