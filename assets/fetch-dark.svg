@@ -52,8 +52,8 @@
 <text y="277.0" xml:space="preserve"><tspan x="434.0" class="dim">-</tspan><tspan x="450.8" class="key">GitHub Stats</tspan><tspan x="560.0" class="dim">-------------------------------------</tspan></text>
 <text y="295.0" xml:space="preserve"><tspan x="434.0" class="key">Repos:</tspan><tspan x="492.8" class="text">4</tspan><tspan x="518.0" class="dim">|</tspan><tspan x="543.2" class="key">Stars:</tspan><tspan x="602.0" class="text">0</tspan></text>
 <text y="313.0" xml:space="preserve"><tspan x="434.0" class="key">Followers:</tspan><tspan x="526.4" class="text">2</tspan></text>
-<text y="331.0" xml:space="preserve"><tspan x="434.0" class="key">Commits:</tspan><tspan x="509.6" class="text">27</tspan><tspan x="534.8" class="dim">(all time)</tspan></text>
-<text y="349.0" xml:space="preserve"><tspan x="434.0" class="key">Contributions:</tspan><tspan x="560.0" class="text">38</tspan><tspan x="585.2" class="dim">(past year)</tspan></text>
+<text y="331.0" xml:space="preserve"><tspan x="434.0" class="key">Commits:</tspan><tspan x="509.6" class="text">29</tspan><tspan x="534.8" class="dim">(all time)</tspan></text>
+<text y="349.0" xml:space="preserve"><tspan x="434.0" class="key">Contributions:</tspan><tspan x="560.0" class="text">40</tspan><tspan x="585.2" class="dim">(past year)</tspan></text>
 <text y="367.0" xml:space="preserve"><tspan x="434.0" class="key">Top Langs:</tspan><tspan x="526.4" class="text">R, Python, C++, Rust</tspan></text>
 <rect x="434.0" y="391.0" width="25.2" height="16" fill="#484f58"/>
 <rect x="459.2" y="391.0" width="25.2" height="16" fill="#ff7b72"/>
