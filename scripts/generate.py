@@ -27,7 +27,7 @@ STATIC_INFO = [
     ("Uptime", "{uptime}"),  # filled with account age
     ("Shell", "bash"),
     ("Interests", "Genomics, Bioinformatics, Herpetology"),
-    ("Comfortable", "Linux, Git, Bash, R"),
+    ("Using", "Linux, Git, Bash, R, Python"),
     ("Learning", "Rust, C++"),
 ]
 
