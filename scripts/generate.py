@@ -26,8 +26,8 @@ STATIC_INFO = [
     ("Host", f"github.com/{USER}"),
     ("Uptime", "{uptime}"),  # filled with account age
     ("Shell", "bash"),
-    ("Interests", "Genomics, Bioinformatics, Herpetology"),
-    ("Using", "Linux, Git, Bash, R, Python"),
+    ("Interests", "Herpetology, Genomics, Bioinformatics"),
+    ("Using", "Linux, Git, Bash, R"),
     ("Learning", "Rust, C++"),
 ]
 
@@ -187,7 +187,8 @@ def info_lines(stats):
     title = "GitHub Stats "
     lines.append([("- ", "dim"), (title, "key"), ("-" * (INFO_COLS - len(title) - 2), "dim")])
     lines += [
-        [("Repos: ", "key"), (str(stats["repos"]), "text"), ("  |  ", "dim"), ("Stars: ", "key"), (str(stats["stars"]), "text")],
+        [("Repos: ", "key"), (str(stats["repos"]), "text")],
+        [("Stars: ", "key"), (str(stats["stars"]), "text")],
         [("Followers: ", "key"), (str(stats["followers"]), "text")],
         [("Commits: ", "key"), (f"{stats['commits']:,}", "text"), (" (all time)", "dim")],
         [("Contributions: ", "key"), (f"{stats['contribs_year']:,}", "text"), (" (past year)", "dim")],
